@@ -51,7 +51,7 @@
     "@discordjs/builders": "^1.7.0",
     "@discordjs/formatters": "^0.3.3",
     "@discordjs/util": "^1.0.2",
-    "@discordjs/rest": "^2.1.0",
+    "@discordjs/rest": "git+https://github.com/ItzFerr/rest.git",
     "@discordjs/ws": "^1.0.2"
   },
   "devDependencies": {
