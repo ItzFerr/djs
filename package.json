@@ -69,7 +69,7 @@
     "tslint": "6.1.3",
     "turbo": "^1.10.17-canary.0",
     "typescript": "5.2.2",
-    "@discordjs/api-extractor": "https://github.com/ItzFerr/api-exct.git",
+    "@discordjs/api-extractor": "git+https://github.com/ItzFerr/api-exct.git",
     "@discordjs/docgen": "^0.12.1"
   },
   "engines": {
